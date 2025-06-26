@@ -1,0 +1,5 @@
+[2025-06-26 16:07:04] [INFO] [common.py:28] - yaml file: config\config.yaml loaded successfully
+[2025-06-26 16:07:04] [INFO] [common.py:28] - yaml file: params.yaml loaded successfully
+[2025-06-26 16:07:04] [INFO] [common.py:46] - created directory at: artifacts
+[2025-06-26 16:07:04] [INFO] [common.py:46] - created directory at: artifacts/data_ingestion
+[2025-06-26 16:07:29] [INFO] [data_ingestion.py:19] - File is downloaded
